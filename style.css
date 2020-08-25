@@ -1,0 +1,26 @@
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    margin-top: 5%;
+    margin-right: 10%;
+    float: right;
+    width: 360px;
+}
+
+#content {
+    margin-top: 12%;
+    margin-left: 20%;
+    margin-right: 2%;
+    color: black;
+    float: right;
+}
+
+#social {
+    font-size: 120%;
+    margin-left: 50%;
+    float: right;
+}
